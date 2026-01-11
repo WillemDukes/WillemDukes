@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
   <b>Infection Feedback Loop Diagram</b>
 
-<img src="path/to/image.jpg" alt="description">
+<img src="IMG_3010.jpg" alt="description">
 
 
 
