@@ -1,4 +1,7 @@
-<h1>Hi, I'm Willem! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Willem!</h1>
+<h2>I am a sophomore ISAT student focusing on systems thinking, sustainability, and modeling. I enjoy turning complex problems into clear solutions through hands-on projects and interdisciplinary collaboration.<h2>
+
+
 
 <h2>Projects:</h2>
 
