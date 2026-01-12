@@ -6,7 +6,8 @@
 <h2>Projects:</h2>
 
 - <b>Eagle Scout Project (Environmental Education & Trail Signage Project)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [View my Eagle Scout Project](https://willemdukes.github.io/Portfolio/)
+
 - <b>Infection Feedback Loop Diagram</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
   <b>Infection Feedback Loop Diagram</b>
