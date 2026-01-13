@@ -1,9 +1,8 @@
-/* Root colour palette */
+/* ================= ROOT COLOUR PALETTE ================= */
 :root {
-  --primary-color: #2f5933; /* dark green */
-  --secondary-color: #a3b899; /* light green */
-  --background-color: #f6f8f5; /* off white */
-  --text-color: #333333;
+  --primary-color: #2f5933;     /* dark green */
+  --secondary-color: #a3b899;   /* light green */
+  --background-color: #f6f8f5;  /* off white */
   --link-color: #2a4d29;
 }
 
@@ -11,12 +10,13 @@
   box-sizing: border-box;
 }
 
+/* ================= GLOBAL ================= */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: var(--background-color);
-  color: var(--primary-color); /* all text green */
+  color: var(--primary-color); /* ALL text green */
   line-height: 1.6;
 }
 
@@ -63,7 +63,7 @@ section.project li {
   margin-bottom: 0.35rem;
 }
 
-/* ================= IMAGE GRID (UPDATED) ================= */
+/* ================= IMAGE GRID ================= */
 .project-images {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -83,7 +83,7 @@ section.project li {
   width: 100%;
   max-width: 320px;
   height: 220px;            /* equal image height */
-  object-fit: cover;       /* crops instead of shrinking */
+  object-fit: cover;       /* crops tall images cleanly */
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
 }
