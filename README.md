@@ -10,12 +10,12 @@ My projects focus on using models and data to better understand complex systems 
 
 ## Featured Projects
 
-**Eagle Scout Environmental Education Project**  
+**Eagle Scout Environmental Education Project (May 2023)**  
 Designed and implemented trail signage and educational materials to improve environmental awareness and visitor experience.  
 [View Project](https://willemdukes.github.io/WillemDukes/)
 
 
-**Stella Architect – Infectious Disease Model**  
+**Stella Architect – Infectious Disease Model (December 2025)**  
 Built a system dynamics model simulating disease spread using an extended SEIR framework to explore feedback loops, behavior, and policy impacts.  
 [View Project](https://willemdukes.github.io/Stella-Architect-/)
 
