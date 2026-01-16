@@ -25,6 +25,7 @@ Built a system dynamics model simulating disease spread using an extended SEIR f
 
 - Eagle Scout leadership experience through planning and executing a large-scale service project
 - Five years of lifeguarding experience with responsibility for safety, monitoring, and decision-making
+- Certifed Pool Operator (CPO) and Red Cross CPR Certifed
 - Leadership and teamwork through long-term work and project collaboration  
 - Experience working with data, graphs, and model outputs to interpret trends  
 - Strong communication skills from leadership roles and customer-facing work
