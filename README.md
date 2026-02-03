@@ -35,7 +35,7 @@ Built a system dynamics model simulating disease spread using an extended SEIR f
 
 ## Resume & Contact
 
-- **Resume:** [View resume](Assets/Resume.pdf)
+- **Resume:** [View resume](Assets/RESUME%20PDF.pdf)
 - **Email:** [willemdukes@gmail.com](mailto:willemdukes@gmail.com)
 - **GitHub:** [github.com/willemdukes](https://github.com/willemdukes)
 - **Phone:** 251-545-0629
